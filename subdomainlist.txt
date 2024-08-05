@@ -1,0 +1,10 @@
+mail
+gtp
+admin
+local
+drive
+blog
+chat
+docs
+business
+shopping
